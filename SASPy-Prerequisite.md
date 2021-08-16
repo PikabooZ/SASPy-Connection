@@ -1,4 +1,3 @@
-# SASPy-Prerequisite
 Java version 1.8.0_162 or higher, Python 3.3 or higher, and SASPy 3.3.4 or higher (using the latest version is recommended) are required before proceeding.
 If your Python version is 3.4 or higher, pip is already installed.
 If pip isn’t already installed, then first try to bootstrap it from the standard library: 
